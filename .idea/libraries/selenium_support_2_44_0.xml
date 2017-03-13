@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="selenium-support-2.44.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/selenium-support-2.44.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
